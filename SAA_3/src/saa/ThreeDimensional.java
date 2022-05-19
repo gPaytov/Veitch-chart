@@ -87,7 +87,7 @@ public class ThreeDimensional implements Form {
         }
     }
 
-    //a2 demek tursime shodstvie s takova a
+    //the a2 is for searching for matchng a
     private void combine1(List<Form> allForms, Form t1, int a2, int[][][] map) {
         boolean finished = false;
         List<Coordinates> tempCoo = new LinkedList<>();
